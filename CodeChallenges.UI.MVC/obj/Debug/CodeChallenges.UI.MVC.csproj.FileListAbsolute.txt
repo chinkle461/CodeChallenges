@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\bin\Debug\CodeChallenges.UI.MVC.exe.config
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\bin\Debug\CodeChallenges.UI.MVC.exe
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\bin\Debug\CodeChallenges.UI.MVC.pdb
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\obj\Debug\CodeChallenges.UI.MVC.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\obj\Debug\CodeChallenges.UI.MVC.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\obj\Debug\CodeChallenges.UI.MVC.exe
+C:\Users\student\Desktop\Code Challenges\CodeChallenges\src\CodeChallenges.UI.MVC\obj\Debug\CodeChallenges.UI.MVC.pdb
